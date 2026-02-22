@@ -31,5 +31,7 @@ To run the program, execute:
 python main.py
 ```
 
-## Contributing
-Feel free to submit pull requests or open issues for suggestions and improvements!
+## Author Information
+**Ahmad Fawzi**  
+GitHub: [Ahmad-Fawzi5380](https://github.com/Ahmad-Fawzi5380)  
+Email: ahmad.abdelrahman.fawzi@gmail.com
