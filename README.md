@@ -1,11 +1,9 @@
 # Image Template Placement Program
 
-This program allows users to place images into pre-defined templates efficiently. It supports various image formats and provides customization options for image size, positioning, and template selection.
+This program allows users to place images into a pre-defined template efficiently. 
 
 ## Features
-- **Multiple Template Support**: Users can choose from various templates to enhance their images.
-- **Image Adjustments**: Options to resize and reposition images within the templates.
-- **User-Friendly Interface**: Designed for ease of use, even for those with minimal technical skills.
+- **Image Adjustments**: The program automatically adjusts the size of the image to be inserted into the template.
 
 ## Installation
 1. Clone the repository:
@@ -20,6 +18,12 @@ This program allows users to place images into pre-defined templates efficiently
    ```bash
    pip install -r requirements.txt
    ```
+
+4. Create a directory on your computer:
+   Place the template and the image you want to place into it inside this directory. The template must be named Template.jpg and the second image must be named TheImage.png.
+
+5. Rewrite the base directory to fit the one you created.
+   Copy the directory you created and replace the default directory on lines 4,6 and 21 with it. 
 
 ## Usage
 To run the program, execute:
